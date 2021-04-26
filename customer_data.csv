@@ -1,0 +1,101 @@
+Customer_ID,Customer_First_Name,Customer_Last_Name,Corporate_YN,Date_of_Birth,Mobile_Number,Address,State,City,PIN_Code,Political_Exposure,Annual_Income,Occupation,Referred_By_Cust_Number,SSN_Number,Bank_Employee_YN,Citizenship
+CUST1,Mary,Ayers,N,28/04/2021,91-658-747-2218,Ap #684-2723 Dui Avenue,RJ,Petrópolis,83516,Y,1828540625,Libero Ltd,Adipiscing Lobortis Corp.,16170825 7280,Y,IN
+CUST2,Giacomo,Parsons,Y,4/4/1992,91-961-398-5147,"P.O. Box 343, 9879 Magna. Rd.",Stm,Knittelfeld,93647,Y,2761342112,Dolor Sit Limited,Pharetra Felis Eget Incorporated,16500222 1421,N,IN
+CUST3,Porter,Bradley,N,23/12/1991,91-244-625-4426,190-2160 Sed St.,Piemonte,Colleretto Castelnuovo,732208,Y,2128353043,Sem Institute,Turpis In Condimentum LLC,16510917 2931,N,IN
+CUST4,Porter,Stephenson,N,6/12/2003,91-739-870-4929,"P.O. Box 315, 1428 Dui. Road",Oax,Oaxaca,42741,N,2614793737,A Foundation,Rhoncus Proin Nisl Associates,16270214 1587,N,IN
+CUST5,Kameko,Velazquez,N,24/09/2021,91-182-265-2131,"P.O. Box 741, 179 Quis, Ave",Metropolitana de Santiago,Lo Espejo,Z3525,N,2969272844,Convallis Ligula Consulting,Vestibulum Lorem Foundation,16041101 0598,Y,IN
+CUST6,Hasad,Beasley,N,22/11/1974,91-412-998-2558,"Ap #598-5761 Vestibulum, Road",Fr,Harlingen,21482,N,4945128148,Curabitur Egestas Nunc LLC,Id Risus Quis Industries,16350723 9261,N,IN
+CUST7,Maggy,Davis,N,8/3/2006,91-797-589-3416,650-8355 Massa Avenue,Heredia,Ulloa (Barrial),7043,Y,2351860025,Ligula Corporation,Ornare Placerat Orci LLP,16510929 5732,N,IN
+CUST8,Donna,Finley,Y,22/11/1986,91-435-655-3048,Ap #254-3621 Duis Road,Piura,Sullana,3024,N,4252205042,Hendrerit Id Limited,Vitae Ltd,16311221 1648,N,IN
+CUST9,Desirae,Woods,Y,18/03/1993,91-909-166-0651,"P.O. Box 227, 9275 Placerat, St.",Podkarpackie,Stalowa Wola,6605,N,2616423360,Vestibulum Massa Rutrum Incorporated,Donec Fringilla Company,16370715 1480,N,IN
+CUST10,Denise,Burnett,Y,4/8/2021,91-929-346-7186,834-2453 Semper St.,V,La Cruz,62488,N,2103855095,Dolor Limited,A Foundation,16530709 6627,Y,IN
+CUST11,Hillary,Daniel,N,17/11/1972,91-756-150-7042,Ap #578-4193 Tellus. Ave,Montgomeryshire,Machynlleth,640499,Y,3310565232,Luctus Sit Associates,Massa Corporation,16080318 7376,N,IN
+CUST12,Amaya,Guthrie,N,27/07/1989,91-576-778-1018,138-8984 Consectetuer St.,Puno,Puno,1610,N,3151825036,Nunc Foundation,Cras Pellentesque Sed Company,16760105 8311,N,IN
+CUST13,Igor,Griffin,Y,19/07/1986,91-109-835-7706,9586 Eleifend Street,Wie,Vienna,27488,N,2602856640,Mattis Velit Justo Limited,Amet Company,16490410 7069,Y,IN
+CUST14,George,Conner,Y,5/1/1991,91-351-657-2351,4463 Fusce Rd.,BA,Feira de Santana,4609,N,1845704503,Varius Orci In Foundation,Neque Nullam Ltd,16761017 5502,Y,IN
+CUST15,Lani,Sexton,Y,8/3/2022,91-925-846-0299,762-3448 Quis Av.,Ontario,Tay,387053,N,2519230127,Sed PC,Erat Volutpat Inc.,16030128 2489,N,IN
+CUST16,Cedric,Chase,Y,8/7/1984,91-475-532-8295,699-3960 Senectus Rd.,C,Galway,67807,Y,3549935590,Dolor Dolor Industries,Et Arcu Inc.,16741121 7529,Y,IN
+CUST17,Axel,Knox,Y,27/06/2020,91-703-454-2064,122-7287 Aenean St.,NI,Waitara,7067,N,293656280,Porta Elit PC,Quisque Associates,16730120 8018,Y,IN
+CUST18,Cathleen,Rivera,N,6/5/2000,91-424-337-7068,9262 Euismod Ave,Gye,Seosan,456253,Y,212877137,Dictum Sapien Corp.,Sem Egestas Foundation,16830526 6119,Y,IN
+CUST19,Kirk,Petersen,N,19/07/2009,91-280-511-2588,"1073 Elementum, Ave",Noord Holland,Laren,90813,N,668530959,Ultricies Dignissim Lacus Incorporated,Duis Consulting,16700409 8435,N,IN
+CUST20,Odette,Obrien,Y,13/11/1990,91-659-772-7659,Ap #945-8932 Egestas St.,JB,Tasikmalaya,22081,N,2617027975,Dictum Consulting,Id Associates,16631117 9342,N,IN
+CUST21,Clark,Nicholson,N,2/3/2015,91-933-644-1389,4287 Tristique St.,Sinaloa,Culiacán,6984 NI,Y,2988347399,Purus Duis Elementum Corp.,Eget Foundation,16731206 3543,Y,IN
+CUST22,Tate,Hurley,N,24/10/1998,91-419-273-7507,159-1857 Mauris Road,Ontario,North Bay,25789,N,3018138933,Nulla Tempor Institute,Mattis Velit LLP,16921120 6520,N,IN
+CUST23,Chiquita,Mooney,Y,24/01/1996,91-611-383-1465,"P.O. Box 856, 4786 Orci Rd.",AK,Fort Smith,2498,N,1315545242,Ac Incorporated,Sit Amet Limited,16400330 1076,Y,IN
+CUST24,Daria,Holland,N,30/12/1996,91-210-402-5978,"P.O. Box 574, 648 Lectus Rd.",MAR,Altidona,4022,Y,1941004001,Facilisis Lorem Foundation,Malesuada Foundation,16101012 8625,Y,IN
+CUST25,Gwendolyn,Wong,Y,26/02/2003,91-151-460-9162,"Ap #766-3025 A, Rd.",CH,Épernay,75-318,N,3888198244,Suspendisse Non Leo PC,Aptent LLC,16500114 9326,N,IN
+CUST26,Thor,Odom,N,5/9/2011,91-872-575-6179,6677 Porta Av.,CV,Elx,38-471,N,1589304743,Accumsan Sed Company,Aliquam Associates,16001017 1692,Y,IN
+CUST27,Amena,Carr,N,6/11/1984,91-864-250-1755,706-2907 Et Avenue,KPK,Chitral,27069,Y,348644500,Eget Ipsum Associates,Dolor Donec LLC,16921202 2603,Y,IN
+CUST28,Emily,Lucas,Y,23/11/1972,91-329-421-0618,513-2707 Tincidunt. St.,AB,Lidingo,560246,Y,4490086570,Fames Ac LLP,Elit Nulla Facilisi PC,16700126 6563,Y,IN
+CUST29,Callie,Sullivan,Y,25/02/1989,91-108-161-2358,Ap #715-5759 Quis Street,Idaho,Pocatello,AR5O 8JF,Y,54344214,Mollis LLP,Pharetra Nam Corporation,16270117 6477,N,IN
+CUST30,Germaine,Nunez,N,1/9/1981,91-988-732-7838,"234-9050 Lobortis, St.",Henegouwen,Charleroi,1812 NH,Y,4504898597,Mauris Nulla Integer Inc.,In Tincidunt Congue Corp.,16201219 9713,Y,IN
+CUST31,Zephania,Cunningham,Y,10/2/2008,91-648-923-3318,"P.O. Box 967, 1476 Tincidunt Rd.",Rajasthan,Bharatpur,180469,Y,772411043,Taciti Company,Ullamcorper Duis Inc.,16940928 4552,N,IN
+CUST32,Lamar,Aguirre,N,11/11/1983,91-927-193-9272,887-130 Posuere Rd.,O,Lidköping,96928,N,1593640881,Sit Amet Company,Luctus Corporation,16770319 0301,N,IN
+CUST33,Lucius,Andrews,Y,1/6/2000,91-118-573-7767,918-9652 Risus Avenue,AS,Gijón,30417,Y,465572390,Integer Id Magna Consulting,Pulvinar Arcu Company,16620701 9529,Y,IN
+CUST34,Palmer,Hudson,N,3/6/2014,91-390-765-5057,Ap #730-2957 Elit St.,WP,Poznań,735121,N,825581558,Natoque Inc.,Pede Cum Consulting,16821119 1625,N,IN
+CUST35,Jamal,Mclean,Y,28/04/1996,91-715-964-8821,"P.O. Box 819, 9791 Nisi Av.",Sinaloa,Culiacán,32308-73307,Y,899014178,Faucibus Leo LLP,Quam Dignissim Institute,16810112 5014,N,IN
+CUST36,Moana,Head,Y,11/3/2021,91-678-431-2556,"Ap #561-1784 At, Street",NSW,Sydney,44938-64103,Y,1294605373,Vivamus Rhoncus LLP,Non Foundation,16160107 8833,N,IN
+CUST37,Cody,Donaldson,N,3/6/2011,91-638-695-4995,Ap #608-7903 Lacus. Ave,AR,Huesca,226362,N,1709675963,Pede Nonummy Ut Associates,Vitae Industries,16370808 2239,N,IN
+CUST38,Xerxes,Shannon,Y,27/06/1983,91-855-736-7964,"P.O. Box 990, 1629 Dignissim. St.",MP,Tarnów,260026,Y,1119583939,Non Consulting,Mus Company,16961021 3812,N,IN
+CUST39,Quentin,Shepherd,N,27/03/1997,91-747-915-9242,Ap #597-4345 Augue Road,Rivers,Buguma,13-656,Y,70515306,Laoreet PC,Cursus LLC,16781207 3463,N,IN
+CUST40,Haviva,Maddox,N,15/09/1999,91-636-707-0819,759-5504 Vulputate St.,AS,Silchar,664580,N,4919078791,Lacus Pede Limited,Cras Vehicula Aliquet Industries,16040510 0926,N,IN
+CUST41,Abbot,Stanton,N,13/06/2002,91-192-599-3515,"P.O. Box 244, 1979 In Rd.",Ontario,Guelph,98845,Y,4454337654,Pede Ultrices A Inc.,Diam Proin Dolor Institute,16360404 4705,Y,IN
+CUST42,Casey,Lynn,N,17/03/2006,91-596-883-4788,"P.O. Box 869, 9265 Hendrerit. Ave",VA,Virginia Beach,67314,N,1631349008,Cum Corporation,Magna Suspendisse LLP,16220301 9050,Y,IN
+CUST43,Selma,Garner,Y,19/07/1985,91-980-150-8607,232-9868 Ut Av.,North Sumatra,Medan,398473,N,954760960,Aliquam Ultrices Limited,Nec LLC,16570403 6531,N,IN
+CUST44,Boris,Donaldson,Y,18/07/1990,91-574-370-0541,"P.O. Box 392, 854 Velit St.",C,Turrialba,21199,Y,550018382,A Malesuada Company,Natoque Penatibus Associates,16420404 9755,N,IN
+CUST45,Ulla,Lott,Y,10/12/2014,91-556-653-8195,"P.O. Box 529, 4696 Malesuada Road",Ontario,Ancaster Town,79833-47862,Y,1366284189,Massa Non Institute,Fringilla Est Consulting,16780918 7722,N,IN
+CUST46,Karleigh,Jackson,N,4/11/2018,91-912-712-9741,941-6026 Quisque St.,AK,Bhimber,2581,N,1781630781,Sapien Foundation,Cursus Integer Corporation,16520114 5801,Y,IN
+CUST47,Dillon,Sykes,Y,12/8/1980,91-964-439-9775,7927 Tristique Rd.,LOR,Iquitos,839439,Y,2518534863,Aliquam Nisl Consulting,Dapibus Inc.,16860505 9099,N,IN
+CUST48,Derek,Sargent,N,13/12/1976,91-923-146-4471,"562-8129 A, St.",Toscana,Pelago,38854-00781,N,2697687788,Lorem Associates,Ornare Placerat Orci Institute,16500325 9701,N,IN
+CUST49,Joseph,Burks,Y,19/08/2006,91-830-888-1830,Ap #864-8835 Convallis St.,NI,Gisborne,37226,N,2146041344,Cursus Institute,Ac Mattis Ornare Company,16430611 7849,N,IN
+CUST50,Ruth,Morin,Y,31/05/2009,91-399-510-6205,"P.O. Box 521, 3980 Tempor St.",Burgenland,Mattersburg,929220,N,2655556273,Molestie Arcu Sed LLC,Felis PC,16650928 6818,N,IN
+CUST51,Audra,Wagner,Y,10/5/1986,91-263-334-1516,Ap #872-3674 Hendrerit. Rd.,MI,Rodez,4287,N,4881978938,Blandit Enim PC,Vitae Erat Vivamus Company,16090707 7903,Y,IN
+CUST52,Caryn,Farmer,Y,28/05/1995,91-296-754-1885,Ap #484-7059 Ac Road,Azad Kashmir,Rawalakot,20335,N,2447517784,Eu Elit Nulla Industries,At Libero Morbi Institute,16430914 0111,N,IN
+CUST53,Lenore,Sanders,Y,8/2/1978,91-380-140-7166,768-4889 Euismod Ave,Zl,Sluis,7684,N,3729875518,Ultricies Ornare Corporation,Est Corp.,16461018 4584,Y,IN
+CUST54,Naida,Roberson,Y,20/07/1982,91-308-577-3439,300-4172 Feugiat Rd.,LA,Lagos,V05 1XM,Y,3364582543,Natoque Penatibus Et LLP,Ac Mattis Semper Incorporated,16880725 7822,N,IN
+CUST55,Kyra,Wilcox,N,28/08/2002,91-141-393-6659,866-9885 Lorem. St.,S.L,San Luis Potosí,74022,Y,2754608488,Lorem Eget Foundation,Aliquet Magna Institute,16320219 3854,Y,IN
+CUST56,Damon,Hoover,Y,16/09/2005,91-382-117-3172,"P.O. Box 884, 6923 Cursus. Rd.",Małopolskie,Tarnów,693814,N,3932408203,Nullam Velit Company,A Malesuada Corporation,16370316 4446,N,IN
+CUST57,Tucker,Lara,N,1/7/2016,91-539-248-8678,431-4302 Ante. Rd.,AB,Grande Prairie,Z5552,Y,2283993026,Neque In Ornare Corporation,Nam Consequat Associates,16320425 7699,N,IN
+CUST58,Faith,Hurley,Y,15/08/1975,91-564-360-9449,"Ap #384-5975 Nec, Street",BC,Lake Cowichan,742519,Y,2313456661,Vehicula Et LLC,Non Inc.,16221019 4177,Y,IN
+CUST59,Xantha,Hunt,N,26/01/1988,91-359-760-5309,"P.O. Box 794, 1718 Nulla. Rd.",OH,Akron,20740,N,3700708679,Cursus Et Associates,Neque Et LLP,16911106 9887,Y,IN
+CUST60,Cameran,Whitney,Y,8/9/1998,91-378-266-0388,554 Congue Rd.,Mexico City,Mexico City,57001,N,4393296731,Lorem Fringilla Foundation,A Tortor LLP,16440321 8219,N,IN
+CUST61,Libby,Summers,N,5/3/2004,91-144-835-0682,"P.O. Box 871, 4816 Metus Av.",LOR,Yurimaguas,388425,Y,2863325200,Magna Ut Corp.,Nulla Integer LLC,16930609 3510,Y,IN
+CUST62,Zephania,Banks,N,8/4/1992,91-860-707-5306,564-7514 Neque. Ave,PR,Vitrolles,708446,Y,1951562685,In Condimentum Donec Industries,Ipsum Porta Associates,16581118 5932,N,IN
+CUST63,Ora,Jacobs,N,27/12/1983,91-983-200-9097,1390 Lectus Rd.,BA,Ilhéus,15723,N,4230054463,Et Libero Industries,Curabitur LLP,16840102 1293,Y,IN
+CUST64,Erasmus,Espinoza,Y,28/03/2013,91-274-203-1937,Ap #962-8874 Imperdiet Rd.,KPK,Hangu,7255,Y,424844389,Dui Quis Industries,Interdum Sed Auctor LLP,16650703 1331,N,IN
+CUST65,Keaton,Alvarez,N,10/12/2012,91-404-121-3014,"P.O. Box 316, 5053 Et Ave",Ist,Istanbul,X4 2LX,Y,4660090260,Sem Institute,Vel Venenatis Vel Consulting,16500903 9818,N,IN
+CUST66,Cadman,Hyde,Y,21/06/1972,91-296-965-3911,368-8041 Mus. Street,Maharastra,Bhir,1946,N,538675695,Vulputate Dui Nec Corporation,Semper Rutrum Fusce LLP,16350318 4008,Y,IN
+CUST67,Mikayla,Mclean,N,19/07/2007,91-275-119-7433,2585 Et Av.,Berlin,Berlin,4368,Y,3200571075,Interdum Enim Non Foundation,Proin Eget LLC,16900902 1057,Y,IN
+CUST68,Anthony,Henry,N,10/2/2006,91-652-598-5601,"P.O. Box 280, 136 Fames Av.",CO,Bastia,Z8941,N,4183723526,Posuere Enim Nisl Foundation,Eu Augue Porttitor Limited,16560227 4200,Y,IN
+CUST69,Unity,Park,Y,27/07/1980,91-756-154-5460,822-2006 Sit Street,San José,San Isidro de El General,07270-50471,N,3466105388,In Ltd,Nisl Ltd,16441002 5268,N,IN
+CUST70,Fiona,Lang,N,23/03/2020,91-674-239-4430,"P.O. Box 647, 3480 Donec Rd.",New South Wales,Armidale,Z6887,N,1987827404,Lacus Pede Sagittis PC,Dui Nec Urna LLC,16291029 0523,Y,IN
+CUST71,Austin,Jones,Y,28/02/1981,91-596-883-2286,Ap #959-7990 Tortor St.,SI,Oamaru,80-431,N,1097321258,Id Enim PC,Lacus Vestibulum Incorporated,16851025 6574,Y,IN
+CUST72,Katelyn,Lane,N,18/02/2013,91-975-878-0606,6201 Orci. St.,Lombardia,Sulzano,653981,Y,3544927525,Ante Vivamus PC,Nunc Sed Libero Corp.,16040404 1782,Y,IN
+CUST73,Rama,Morin,Y,16/07/2001,91-264-596-5154,"799-3374 Urna, St.",Vlaams-Brabant,Herfelingen,227653,Y,2291799730,Proin Dolor Nulla Ltd,Cras Eget Nisi Industries,16410113 0674,N,IN
+CUST74,Victor,Moses,N,30/04/2017,91-922-835-8569,"P.O. Box 293, 1352 Placerat, St.",NI,Cambridge,83006,N,2252408198,At Pretium Aliquet Institute,Erat Corporation,16041101 7171,N,IN
+CUST75,Wyoming,Gaines,N,24/02/2003,91-628-981-2852,"P.O. Box 507, 6329 Dictum St.",Västra Götalands län,Alingsås,69473,N,992614826,Nulla Ante Iaculis LLP,Nulla Semper Limited,16090628 0656,Y,IN
+CUST76,Britanni,Prince,N,27/02/2005,91-697-633-6454,"P.O. Box 124, 3063 Luctus Ave",Kogi,Okene,24828,N,4156472583,Nunc Ullamcorper Eu PC,Nisi Company,16300918 9212,Y,IN
+CUST77,Karen,Brewer,Y,6/12/2003,91-148-242-6139,Ap #544-5858 Fringilla. Rd.,Delta,Warri,2402,N,1953063795,Cursus Incorporated,Elit Pede Malesuada Company,16180514 0553,N,IN
+CUST78,Ruby,Valenzuela,Y,7/7/2017,91-725-926-7987,119-6334 In Av.,Coa,Saltillo,90633,N,1678996016,Tellus Nunc Ltd,Ac Mattis Ornare Incorporated,16730516 6949,Y,IN
+CUST79,Vernon,Bush,Y,11/8/2005,91-424-792-9601,"P.O. Box 970, 2853 Pharetra. St.",L,Dublin,00-128,N,1572302709,Non Justo Incorporated,Sed Pharetra Associates,16570712 0597,N,IN
+CUST80,Donna,Robertson,Y,23/11/1974,91-135-270-4247,7111 Tincidunt Av.,NA,Pamplona,43587,Y,346857613,Sed Corporation,Magna Tellus Inc.,16000405 5885,Y,IN
+CUST81,Hedwig,Lewis,N,3/4/1995,91-879-483-2745,Ap #372-200 Egestas. Rd.,ON,Lanark County,702585,N,4114985574,Nunc Mauris Incorporated,Venenatis LLC,16220321 2309,N,IN
+CUST82,Tobias,Jenkins,Y,10/6/1999,91-491-381-4718,"P.O. Box 333, 8961 Dolor St.",DC,Bogotá,126192,Y,1685748827,Pharetra Felis Eget Ltd,Non Foundation,16250922 1434,N,IN
+CUST83,Thane,Carney,Y,7/4/2014,91-572-539-3937,"P.O. Box 673, 4030 Sit Av.",QC,Beauport,316113,N,2630227852,Vel Foundation,At Egestas Limited,16451010 3627,Y,IN
+CUST84,Aretha,Garza,Y,19/07/1994,91-788-599-4884,731-2410 Proin St.,Piemonte,Quarona,61840,N,2731349800,Enim Etiam LLC,Convallis Erat LLC,16850608 9203,Y,IN
+CUST85,Meredith,Sanders,N,24/06/2015,91-261-952-3828,Ap #981-8272 Nulla St.,Lagos,Lagos,1352,N,786390823,Quis Institute,Aliquet Sem Ut Incorporated,16860710 3150,N,IN
+CUST86,Tatyana,Pollard,N,10/8/2009,91-503-223-8742,6667 Cursus Road,Maule,Curepto,05-022,Y,1634690400,Placerat Cras Inc.,Scelerisque Limited,16960520 6847,N,IN
+CUST87,Audrey,Dotson,N,21/06/1987,91-186-640-3012,Ap #401-5146 Ac Street,Cartago,Aguacaliente (San Francisco),22644,N,3229225538,Commodo At PC,Non Lobortis Quis Company,16220721 8914,Y,IN
+CUST88,Bernard,Dawson,N,18/10/1976,91-949-210-1128,3658 Congue Avenue,Cheshire,Ellesmere Port,16967,Y,22993645,At Velit Associates,Eu Eros Industries,16360708 7487,N,IN
+CUST89,Yvette,Moody,Y,23/07/2001,91-680-836-7104,4570 Sed Street,Vienna,Vienna,304471,N,4551039735,Mi Eleifend Egestas Foundation,Nec Corp.,16020118 2953,Y,IN
+CUST90,Gage,Oneal,N,22/05/1975,91-560-814-8582,9239 Primis Avenue,Metropolitana de Santiago,Quinta Normal,217325,Y,3095969449,Lacus Mauris Non Institute,Nisi Sem LLP,16060504 6937,N,IN
+CUST91,Melodie,Weeks,N,1/5/1976,91-219-923-6600,Ap #110-1850 Odio. St.,Styria,Voitsberg,10286,Y,4478004061,Suspendisse Aliquet Sem Corporation,Molestie Tellus Aenean Institute,16200422 7837,Y,IN
+CUST92,Howard,Holcomb,Y,15/01/2000,91-943-414-9990,Ap #850-4478 Velit. St.,Małopolskie,Tarnów,4655 XU,N,3155653022,Amet Ltd,Felis Purus LLC,16251108 4952,Y,IN
+CUST93,Allegra,Bradshaw,N,10/7/1999,91-581-257-3409,Ap #408-7809 Rhoncus. Rd.,PU,Multan,40-387,Y,1707036887,Etiam Bibendum LLP,Pellentesque Tellus Sem Company,16770909 6973,Y,IN
+CUST94,Damon,Landry,Y,18/11/2009,91-278-359-4960,"P.O. Box 907, 3490 Erat, Ave",Hamburg,Hamburg,65882,N,870854365,Sagittis Corporation,Diam Eu PC,16941007 3754,Y,IN
+CUST95,Zachery,Schroeder,Y,11/5/1975,91-971-750-7983,"P.O. Box 110, 4985 Massa. Av.",WA,Spokane,86027,N,1388407496,Varius Ultrices Mauris Corp.,Nisi LLC,16770402 7916,Y,IN
+CUST96,Brock,Mercer,Y,7/11/2013,91-307-504-5912,729-3725 Ultrices Street,Sin,Mazatlán,6791 EI,Y,3906790104,Ipsum Limited,Nibh Dolor Consulting,16800106 8454,N,IN
+CUST97,Kay,Benton,N,17/11/1991,91-662-462-6686,Ap #505-9982 Orci Road,HH,Hamburg,98090-57265,Y,1514799584,Posuere Vulputate Lacus LLP,Cursus A Foundation,16230814 6907,N,IN
+CUST98,Zia,Acosta,N,1/2/2012,91-174-601-1081,9664 Tempus Street,Balochistan,Awaran,10263,Y,955057697,Consectetuer Incorporated,Eu Metus In Consulting,16720910 1893,Y,IN
+CUST99,Shoshana,Rosales,Y,26/10/2015,91-820-291-5633,"P.O. Box 218, 3361 Cras Rd.",Ulster,Belfast,6811,N,3128162182,Donec Porttitor Incorporated,Risus PC,16920115 9002,N,IN
+CUST100,Hadley,Marsh,N,28/02/1988,91-507-827-7009,"P.O. Box 305, 9679 Libero Rd.",Aydın,Aydın,70474,Y,4075950679,Phasellus Nulla Integer Corp.,Enim Condimentum Associates,16310410 6038,N,IN
